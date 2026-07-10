@@ -2,5 +2,6 @@
   "id": "cat",
   "displayName": "Cat",
   "description": "Cat",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

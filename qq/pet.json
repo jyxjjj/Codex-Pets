@@ -2,5 +2,6 @@
   "id": "qq",
   "displayName": "QQ",
   "description": "QQ Pet",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
